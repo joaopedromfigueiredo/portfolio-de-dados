@@ -4,9 +4,9 @@
 
 Atualmente estou em uma trilha específica para obter o certificado profissional de analista de dados oferecido pela Google na plataforma Coursera. Já tendo concluído seis dos oito cursos:
 
-Google Data Analytics  - Certificação Profissional de Análise de Dados
+#### Google Data Analytics  - Certificação Profissional de Análise de Dados
 
-✅ 1. Princípios básicos: Dados, dados, em todos os lugares [[Certificado]](https://coursera.org/share/67fecd16e5761230fc4db2fdcfc33ecc) <br/>
+>✅ 1. Princípios básicos: Dados, dados, em todos os lugares [[Certificado]](https://coursera.org/share/67fecd16e5761230fc4db2fdcfc33ecc) <br/>
 ✅ 2. Fazer perguntas para tomar decisões com base em dados [[Certificado]](https://coursera.org/share/0065455368ffe4262e7b0deda498c7e7) <br/>
 ✅ 3. Preparar os dados para exploração [[Certificado]](https://coursera.org/share/2d0c8254a095ed700607983a913df5c5) <br/>
 ✅ 4. Processar os dados para limpá-los [[Certificado]](https://coursera.org/share/de26d12212b66eb5de041740d29c291a) <br/>
@@ -17,14 +17,14 @@ Google Data Analytics  - Certificação Profissional de Análise de Dados
 
 Também estou em outra trilha específica para desenvolver habilidades em Excel específicas para análise de dados, oferecida pela Macquarie University de Sydney na plataforma Coursera:
 
-Excel Skills for Data Analytics and Visualization
+#### Excel Skills for Data Analytics and Visualization
 
-✅ 1. Excel Fundamentals for Data Analysis [[Certificado]](https://coursera.org/share/cf95bbe43b86329fe8ea1f45b5164138) <br/>
+>✅ 1. Excel Fundamentals for Data Analysis [[Certificado]](https://coursera.org/share/cf95bbe43b86329fe8ea1f45b5164138) <br/>
 ⌛ 2. Data Visualization in Excel <br/>
 ⌛ 3. Excel Power Tools for Data Analysis <br/>
 
 Realizei outros cursos oferecidos pela IBM também na plataforma Coursera, específicos para análise de dados:
 
-✅ Banco de Dados e SQL para análise de dados [[Certificado]](https://coursera.org/share/81cfb3f4dbf05f5d4d70bc43a050f7be) <br/>
+>✅ Banco de Dados e SQL para análise de dados [[Certificado]](https://coursera.org/share/81cfb3f4dbf05f5d4d70bc43a050f7be) <br/>
 ✅ Análise de dados com Python [Aguardando certificado]
 
