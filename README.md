@@ -14,15 +14,9 @@ Atualmente estou em uma trilha específica para obter o certificado profissional
 ✅ 7. Análise de dados com programação em R [[Certificado]](https://coursera.org/share/b441df5b752e65287dd8ab43a69b23e9) <br/>
 ⌛ 8. Projeto final de Data Analytics do Google <br/>
 
-Também estou em outra trilha específica para desenvolver habilidades em Excel específicas para análise de dados, oferecida pela Macquarie University de Sydney na plataforma Coursera:
+Também realizei outros cursos a fim de continuar minha capacitação para minha primeira vaga de analista de dados:
 
-#### Excel Skills for Data Analytics and Visualization
 ✅ 1. Excel Fundamentals for Data Analysis [[Certificado]](https://coursera.org/share/cf95bbe43b86329fe8ea1f45b5164138) <br/>
-⌛ 2. Data Visualization in Excel <br/>
-⌛ 3. Excel Power Tools for Data Analysis <br/>
-
-Realizei outros cursos oferecidos pela IBM também na plataforma Coursera, específicos para análise de dados:
-
 ✅ Banco de Dados e SQL para análise de dados [[Certificado]](https://coursera.org/share/81cfb3f4dbf05f5d4d70bc43a050f7be) <br/>
 ✅ Análise de dados com Python [Aguardando certificado]
 
