@@ -16,7 +16,7 @@ Atualmente estou em uma trilha específica para obter o certificado profissional
 
 Também realizei outros cursos a fim de continuar minha capacitação para minha primeira vaga de analista de dados:
 
-✅ 1. Excel Fundamentals for Data Analysis [[Certificado]](https://coursera.org/share/cf95bbe43b86329fe8ea1f45b5164138) <br/>
+✅ Excel Fundamentals for Data Analysis [[Certificado]](https://coursera.org/share/cf95bbe43b86329fe8ea1f45b5164138) <br/>
 ✅ Banco de Dados e SQL para análise de dados [[Certificado]](https://coursera.org/share/81cfb3f4dbf05f5d4d70bc43a050f7be) <br/>
 ✅ Análise de dados com Python [Aguardando certificado]
 
