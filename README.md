@@ -12,9 +12,9 @@ Olá, me chamo João Pedro, tenho 29 anos e estou em busca da primeira oportunid
 | Tópico | Descrição |  
 |--------|----------|  
 | 1 | Formação Acadêmica |  
-| 2 | Pequenos projetos |  
-| 3 | Cursos realizados |  
-| 4 | O que estou estudando atualmente |  
+| 2 | Pequenos Projetos |  
+| 3 | Cursos Realizados |  
+| 4 | Próximos Estudos |  
 
 ## 1. Formação Acadêmica
 
@@ -54,7 +54,7 @@ Oferecido pela IBM <br/>
 Oferecido pela IBM <br/>
 Concluído - Aguardando certificado <br/>
 
-## 4. O que estou estudando atualmente
+## 4. Próximos estudos
 
 - [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization) [A iniciar]<br/>
 Oferecido pela IBM
