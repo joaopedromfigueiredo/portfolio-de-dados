@@ -56,9 +56,11 @@ Concluído - Aguardando certificado <br/>
 
 ## 4. Próximos estudos
 
-- [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization) [A iniciar]<br/>
-Oferecido pela IBM
+- [Power BI Completo - Do Básico ao Avançado](https://www.udemy.com/course/power-bi-completo-do-basico-ao-avancado) [20% Concluído] <br/>
+Oferecido pela Udemy.com <br/>
 
+- [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization) [A iniciar]<br/>
+Oferecido pela IBM <br/>
 
 - [Data Visualization with Tableau](https://www.coursera.org/specializations/data-visualization) [A iniciar]<br/>
 Oferecido pela University Of California
