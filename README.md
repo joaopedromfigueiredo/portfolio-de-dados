@@ -11,10 +11,10 @@ Olá, me chamo João Pedro, tenho 29 anos e estou em busca da primeira oportunid
 
 | Tópico | Descrição |  
 |--------|----------|  
-| 1 | [Formação Acadêmica](https://github.com/joaopedromfigueiredo/portfolio/edit/main/README.md#1-forma%C3%A7%C3%A3o-acad%C3%AAmica) |  
-| 2 | [Pequenos Projetos](https://github.com/joaopedromfigueiredo/portfolio/edit/main/README.md#2-pequenos-projetos) |  
-| 3 | [Cursos Realizados](https://github.com/joaopedromfigueiredo/portfolio/edit/main/README.md#3-cursos-realizados) |  
-| 4 | [Estudos em andamento / Próximos estudos](https://github.com/joaopedromfigueiredo/portfolio/edit/main/README.md#4-pr%C3%B3ximos-estudos) |  
+| 1 | [Formação Acadêmica](https://github.com/joaopedromfigueiredo/portfolio/blob/main/README.md#1-forma%C3%A7%C3%A3o-acad%C3%AAmica) |  
+| 2 | [Pequenos Projetos](https://github.com/joaopedromfigueiredo/portfolio/blob/main/README.md#2-pequenos-projetos) |  
+| 3 | [Cursos Realizados](https://github.com/joaopedromfigueiredo/portfolio/blob/main/README.md#3-cursos-realizados) |  
+| 4 | [Estudos em andamento / Próximos estudos](https://github.com/joaopedromfigueiredo/portfolio/blob/main/README.md#4-estudos-em-andamento--pr%C3%B3ximos-estudos) |  
 
 ## 1. Formação Acadêmica
 
