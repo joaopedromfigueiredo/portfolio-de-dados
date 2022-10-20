@@ -1,7 +1,7 @@
 Em construção:
 
 # Portfólio | João Pedro de Morais Figueiredo
-## Analista de Dados JR | Google Data Analytics Certified***
+## Analista de Dados JR | Google Data Analytics Certified [87,5%]
 <img src="https://neilpatel.com/wp-content/uploads/2017/12/portfolio.jpg"
 width="400"></center>  
 
@@ -38,7 +38,7 @@ Oferecido pela Google <br/>
 >3. Preparar os dados para exploração [[Certificado]](https://coursera.org/share/2d0c8254a095ed700607983a913df5c5) <br/>
 >4. Processar os dados para limpá-los [[Certificado]](https://coursera.org/share/de26d12212b66eb5de041740d29c291a) <br/>
 >5. Analisar os dados para responder às perguntas [[Certificado]](https://coursera.org/share/97d4411a7ac654e07fa770f41742cde2) <br/>
->6. Compartilhar os dados com a arte da visualização [Aguardando certificado] <br/>
+>6. Compartilhar os dados com a arte da visualização [Concluído, aguardando certificado] <br/>
 >7. Análise de dados com programação em R [[Certificado]](https://coursera.org/share/b441df5b752e65287dd8ab43a69b23e9) <br/>
 >8. Projeto final de Data Analytics do Google [Em andamento] <br/>
 
