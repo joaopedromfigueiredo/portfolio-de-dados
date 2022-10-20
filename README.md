@@ -1,7 +1,7 @@
 Em construção:
 
 # Portfólio | João Pedro de Morais Figueiredo
-## Analista de Dados JR | Google Data Analytics Certified [87,5%]
+## Analista de Dados JR | Certificado Profissionalmente pelo Google [87,5%]
 <img src="https://neilpatel.com/wp-content/uploads/2017/12/portfolio.jpg"
 width="400"></center>  
 
