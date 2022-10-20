@@ -1,7 +1,7 @@
-Em construção:
+## Portfólio | João Pedro de Morais Figueiredo
+#### Analista de Dados JR | Certificado Profissionalmente pelo Google [87,5%]
+[LinkedIn](https://www.linkedin.com/in/joaopedromfigueiredo) | [Whatsapp](https://web.whatsapp.com/send?phone=558494650884)<br/>
 
-# Portfólio | João Pedro de Morais Figueiredo
-## Analista de Dados JR | Certificado Profissionalmente pelo Google [87,5%]
 <img src="https://neilpatel.com/wp-content/uploads/2017/12/portfolio.jpg"
 width="400"></center>  
 
@@ -11,18 +11,20 @@ Olá, me chamo João Pedro, tenho 29 anos e estou em busca da primeira oportunid
 
 | Tópico | Descrição |  
 |--------|----------|  
-| 1 | Formação Acadêmica |  
-| 2 | Pequenos Projetos |  
-| 3 | Cursos Realizados |  
-| 4 | Próximos Estudos |  
+| 1 | [Formação Acadêmica](https://github.com/joaopedromfigueiredo/portfolio/edit/main/README.md#1-forma%C3%A7%C3%A3o-acad%C3%AAmica) |  
+| 2 | [Pequenos Projetos](https://github.com/joaopedromfigueiredo/portfolio/edit/main/README.md#2-pequenos-projetos) |  
+| 3 | [Cursos Realizados](https://github.com/joaopedromfigueiredo/portfolio/edit/main/README.md#3-cursos-realizados) |  
+| 4 | [Estudos em andamento / Próximos estudos](https://github.com/joaopedromfigueiredo/portfolio/edit/main/README.md#4-pr%C3%B3ximos-estudos) |  
 
 ## 1. Formação Acadêmica
 
-- Lic. em Computação e Informática <br/>
+- Graduação <br/>
+<b>Lic. em Computação e Informática </b> <br/>
 Universidade Federal Rural do Semiárido <br/>
 Concluído em dezembro de 2019 <br/>
 
-- Lic. em Matemática <br/>
+- Graduação <br/>
+<b>Lic. em Matemática </b> <br/>
 Universidade Estácio de Sá <br/>
 Concluído em Julho de 2021 <br/>
 
@@ -54,7 +56,7 @@ Oferecido pela IBM <br/>
 Oferecido pela IBM <br/>
 Concluído - Aguardando certificado <br/>
 
-## 4. Próximos estudos
+## 4. Estudos em andamento / Próximos estudos
 
 - [Power BI Completo - Do Básico ao Avançado](https://www.udemy.com/course/power-bi-completo-do-basico-ao-avancado) [20% Concluído] <br/>
 Oferecido pela Udemy.com <br/>
@@ -63,7 +65,7 @@ Oferecido pela Udemy.com <br/>
 Oferecido pela IBM <br/>
 
 - [Data Visualization with Tableau](https://www.coursera.org/specializations/data-visualization) [A iniciar]<br/>
-Oferecido pela University Of California
+Oferecido pela University Of California<br/>
 >1. Fundamentals of Visualization with Tableau
 >2. Essential Design Principles for Tableau
 >3. Visual Analytics with Tableau
