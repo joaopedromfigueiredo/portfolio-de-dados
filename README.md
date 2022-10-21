@@ -54,7 +54,7 @@ Oferecido pela IBM <br/>
 
 - Análise de dados com Python <br/>
 Oferecido pela IBM <br/>
-Concluído - Aguardando certificado <br/>
+[Certificado](https://coursera.org/share/1dbcb3f7877bc7df9a8e25d3ed771cc4) <br/>
 
 ## 4. Estudos em andamento / Próximos estudos
 
