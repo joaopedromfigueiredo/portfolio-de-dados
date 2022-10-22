@@ -33,10 +33,10 @@ Concluído em Julho de 2021 <br/>
 [Em construção]
 
 ## 3. Cursos realizados
-- Certificado Profissional de Análista de Dados <br/>
+- <b>Certificado Profissional de Análista de Dados </b><br/>
 Oferecido pela Google <br/>
 [[Certificado]](https://coursera.org/share/99289956109d8cb0c8b42a17665cc85f) <br/>
-Certificado profissional onde foi adquirido experiência em coletar, transformar e organizar dados para análises que ajudam nas tomada de decisões. Foi desenvolvido excelente compreensão e proficiência de plataformas para análises de dados eficazes: SQL, Google Sheets/Excel, Tableau e R. Também foi trabalhado fortes habilidades de comunicação, organização e análise. Um programa rigoroso e prático que abrange todo o escopo do processo de análise de dados. Certificados individuais dos cursos:
+>Certificado profissional onde foi adquirido experiência em coletar, transformar e organizar dados para análises que ajudam nas tomadas de decisões. Foi desenvolvido excelente compreensão e proficiência de plataformas para análises de dados eficazes: SQL, Google Sheets/Excel, Tableau e R. Também foi trabalhado fortes habilidades de comunicação, organização e análise. Um programa rigoroso e prático que abrange todo o escopo do processo de análise de dados. Certificados individuais dos cursos:
 >1. Princípios básicos: Dados, dados, em todos os lugares [[Certificado]](https://coursera.org/share/67fecd16e5761230fc4db2fdcfc33ecc) <br/>
 >2. Fazer perguntas para tomar decisões com base em dados [[Certificado]](https://coursera.org/share/0065455368ffe4262e7b0deda498c7e7) <br/>
 >3. Preparar os dados para exploração [[Certificado]](https://coursera.org/share/2d0c8254a095ed700607983a913df5c5) <br/>
@@ -45,6 +45,7 @@ Certificado profissional onde foi adquirido experiência em coletar, transformar
 >6. Compartilhar os dados com a arte da visualização [[Certificado]](https://coursera.org/share/ee763a0c8ee5fa4543ed41b2edddf841) <br/>
 >7. Análise de dados com programação em R [[Certificado]](https://coursera.org/share/b441df5b752e65287dd8ab43a69b23e9) <br/>
 >8. Projeto final de Data Analytics do Google [[Certificado]](https://coursera.org/share/35e9f977942f0e68de423998a7762b4a) <br/>
+
 
 - Excel Fundamentals for Data Analysis <br/>
 Oferecido pela Macquarie University Of Sydney <br/>
