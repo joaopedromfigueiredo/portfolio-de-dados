@@ -1,5 +1,5 @@
 ## Portfólio | João Pedro de Morais Figueiredo
-#### Analista de Dados JR | Certificado Profissionalmente pelo Google [87,5%]
+#### Analista de Dados JR | [Certificado Profissionalmente pelo Google](https://coursera.org/share/99289956109d8cb0c8b42a17665cc85f)
 [LinkedIn](https://www.linkedin.com/in/joaopedromfigueiredo) | [Whatsapp](https://web.whatsapp.com/send?phone=558494650884)<br/>
 
 <img src="https://neilpatel.com/wp-content/uploads/2017/12/portfolio.jpg"
@@ -36,6 +36,7 @@ Concluído em Julho de 2021 <br/>
 - Certificado Profissional de Análista de Dados <br/>
 Oferecido pela Google <br/>
 [[Certificado]](https://coursera.org/share/99289956109d8cb0c8b42a17665cc85f) <br/>
+Certificado profissional onde foi adquirido experiência em coletar, transformar e organizar dados para análises que ajudam nas tomada de decisões. Foi desenvolvido excelente compreensão e proficiência de plataformas para análises de dados eficazes: SQL, Google Sheets/Excel, Tableau e R. Também foi trabalhado fortes habilidades de comunicação, organização e análise. Um programa rigoroso e prático que abrange todo o escopo do processo de análise de dados. Certificados individuais dos cursos:
 >1. Princípios básicos: Dados, dados, em todos os lugares [[Certificado]](https://coursera.org/share/67fecd16e5761230fc4db2fdcfc33ecc) <br/>
 >2. Fazer perguntas para tomar decisões com base em dados [[Certificado]](https://coursera.org/share/0065455368ffe4262e7b0deda498c7e7) <br/>
 >3. Preparar os dados para exploração [[Certificado]](https://coursera.org/share/2d0c8254a095ed700607983a913df5c5) <br/>
