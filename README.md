@@ -1,5 +1,5 @@
 ## Portfólio | João Pedro de Morais Figueiredo
-#### Analista de Dados JR | [Certificado Profissionalmente pelo Google](https://coursera.org/share/99289956109d8cb0c8b42a17665cc85f)
+#### Analista de Dados JR | [Certificado Profissionalmente pelo Google](https://www.credly.com/badges/eddabad7-711a-4f54-80a8-9faa640edbb2)
 [LinkedIn](https://www.linkedin.com/in/joaopedromfigueiredo) | [Whatsapp](https://web.whatsapp.com/send?phone=558494650884)<br/>
 
 <img src="https://neilpatel.com/wp-content/uploads/2017/12/portfolio.jpg"
