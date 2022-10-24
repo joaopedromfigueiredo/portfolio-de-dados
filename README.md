@@ -31,7 +31,10 @@ Concluído em Julho de 2021 <br/>
 ## 2. Pequenos projetos
 
 - [Análise sobre a eleição presidencial 2022 em Python](https://colab.research.google.com/drive/1Jhpl0LkZ6oykckZUcU9H2GmY791XQMCi?usp=sharing)
->Um mapeamento sobre a relação entre os votos de Lula e Bolsonaro e outros fatores como desemprego, taxa de escolarização, segurança alimentar, renda per capita, impacto da pandemia, etc.
+> Notebook em Python com um mapeamento sobre a relação entre os votos de Lula e Bolsonaro e outros fatores como desemprego, taxa de escolarização, segurança alimentar, renda per capita, impacto da pandemia, etc.
+
+- [Criando Visualizações em R](https://drive.google.com/file/d/1m6oEDnmV22EkU0h-wpg12dFeHdVyKnge/view?usp=sharing)
+> Notebook em R criando diferentes tipos de visualizações, utilizando o dataframe penguins.
 
 ## 3. Cursos realizados
 - <b>Certificado Profissional de Análista de Dados </b><br/>
