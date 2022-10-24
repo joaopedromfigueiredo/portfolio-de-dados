@@ -36,7 +36,7 @@ Concluído em Julho de 2021 <br/>
 ## 3. Cursos realizados
 - <b>Certificado Profissional de Análista de Dados </b><br/>
 Oferecido pela Google <br/>
-[[Certificado]](https://coursera.org/share/99289956109d8cb0c8b42a17665cc85f) <br/>
+[Certificado](https://coursera.org/share/99289956109d8cb0c8b42a17665cc85f) | [Selo](https://www.credly.com/badges/eddabad7-711a-4f54-80a8-9faa640edbb2)<br/>
 >Certificado profissional onde foi adquirido experiência em coletar, transformar e organizar dados para análises que ajudam nas tomadas de decisões. Foi desenvolvido excelente compreensão e proficiência de plataformas para análises de dados eficazes: SQL, Google Sheets/Excel, Tableau e R. Também foi trabalhado fortes habilidades de comunicação, organização e análise. Um programa rigoroso e prático que abrange todo o escopo do processo de análise de dados. Certificados individuais dos cursos:
 >1. Princípios básicos: Dados, dados, em todos os lugares [[Certificado]](https://coursera.org/share/67fecd16e5761230fc4db2fdcfc33ecc) <br/>
 >2. Fazer perguntas para tomar decisões com base em dados [[Certificado]](https://coursera.org/share/0065455368ffe4262e7b0deda498c7e7) <br/>
