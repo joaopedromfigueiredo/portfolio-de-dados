@@ -30,7 +30,8 @@ Concluído em Julho de 2021 <br/>
 
 ## 2. Pequenos projetos
 
-[Em construção]
+- [Análise sobre a eleição presidencial 2022](https://colab.research.google.com/drive/1Jhpl0LkZ6oykckZUcU9H2GmY791XQMCi?usp=sharing)
+>Um mapeamento sobre a relação entre os votos de Lula e Bolsonaro e outros fatores como desemprego, taxa de escolarização, segurança alimentar, renda per capita, impacto da pandemia, etc.
 
 ## 3. Cursos realizados
 - <b>Certificado Profissional de Análista de Dados </b><br/>
