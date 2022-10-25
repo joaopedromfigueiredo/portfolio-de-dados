@@ -36,6 +36,9 @@ Concluído em Julho de 2021 <br/>
 - [Criando Visualizações em R](https://drive.google.com/file/d/1m6oEDnmV22EkU0h-wpg12dFeHdVyKnge/view?usp=sharing)
 > Notebook em R criando diferentes tipos de visualizações, utilizando o dataframe penguins.
 
+- [Planilha de controle de produtividade e avaliação](https://docs.google.com/spreadsheets/d/1pTI57uf-3B7NZXOGMPGX0PSXu563RBttbRP2J_EWpoY/edit?usp=sharing)
+> Planilha de controle de produtividade automatizada, utilizando formulário como entrada de dados e automatizando resultados e gráficos.
+
 ## 3. Cursos realizados
 - <b>Certificado Profissional de Análista de Dados </b><br/>
 Oferecido pela Google <br/>
