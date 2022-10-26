@@ -30,14 +30,19 @@ Concluído em Julho de 2021 <br/>
 
 ## 2. Pequenos projetos
 
-- [Análise sobre a eleição presidencial 2022 em Python](https://colab.research.google.com/drive/1Jhpl0LkZ6oykckZUcU9H2GmY791XQMCi?usp=sharing)
+- [[Python] Análise sobre a eleição presidencial 2022](https://colab.research.google.com/drive/1Jhpl0LkZ6oykckZUcU9H2GmY791XQMCi?usp=sharing)
 > Notebook em Python com um mapeamento sobre a relação entre os votos de Lula e Bolsonaro e outros fatores como desemprego, taxa de escolarização, segurança alimentar, renda per capita, impacto da pandemia, etc.
 
-- [Criando Visualizações em R](https://drive.google.com/file/d/1m6oEDnmV22EkU0h-wpg12dFeHdVyKnge/view?usp=sharing)
+- [[R] Criando Visualizações em R](https://drive.google.com/file/d/1m6oEDnmV22EkU0h-wpg12dFeHdVyKnge/view?usp=sharing)
 > Notebook em R criando diferentes tipos de visualizações, utilizando o dataframe penguins.
 
-- [Planilha de controle de produtividade e avaliação](https://docs.google.com/spreadsheets/d/1pTI57uf-3B7NZXOGMPGX0PSXu563RBttbRP2J_EWpoY/edit?usp=sharing)
+- [[Google Sheets/Excel] Planilha de controle de produtividade e avaliação](https://docs.google.com/spreadsheets/d/1pTI57uf-3B7NZXOGMPGX0PSXu563RBttbRP2J_EWpoY/edit?usp=sharing)
 > Planilha de controle de produtividade automatizada, utilizando formulário como entrada de dados e automatizando resultados e gráficos.
+
+- [[Tableau] Gráfico de barra interativo dos votos do 1º turno em Bolsonaro e Lula por região](https://public.tableau.com/app/profile/joaopedromfigueiredo/viz/AnaliseEleicao2022-1Turno/BarraPainel#1)
+
+- [[Tableau] Relação entre os votos de Lula e Bolsonaro no 1º turno e outros fatores](https://public.tableau.com/app/profile/joaopedromfigueiredo/viz/AnaliseEleicao2022-1Turno/TendenciaPainel#1)
+
 
 ## 3. Cursos realizados
 - <b>Certificado Profissional de Análista de Dados </b><br/>
