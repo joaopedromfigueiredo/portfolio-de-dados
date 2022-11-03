@@ -39,10 +39,6 @@ Concluído em Julho de 2021 <br/>
 - [[Google Sheets/Excel] Planilha de controle de produtividade e avaliação](https://docs.google.com/spreadsheets/d/1pTI57uf-3B7NZXOGMPGX0PSXu563RBttbRP2J_EWpoY/edit?usp=sharing)
 > Planilha de controle de produtividade automatizada, utilizando formulário como entrada de dados e automatizando resultados e gráficos.
 
-- [[Tableau] Gráfico de barra interativo dos votos do 1º turno em Bolsonaro e Lula por região](https://public.tableau.com/app/profile/joaopedromfigueiredo/viz/AnaliseEleicao2022-1Turno/BarraPainel#1)
-
-- [[Tableau] Relação entre os votos de Lula e Bolsonaro no 1º turno e outros fatores](https://public.tableau.com/app/profile/joaopedromfigueiredo/viz/AnaliseEleicao2022-1Turno/TendenciaPainel#1)
-
 
 ## 3. Cursos realizados
 - <b>Certificado Profissional de Análista de Dados </b><br/>
@@ -78,12 +74,3 @@ Oferecido pela Udemy.com <br/>
 
 - [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization) [A iniciar]<br/>
 Oferecido pela IBM <br/>
-
-- [Data Visualization with Tableau](https://www.coursera.org/specializations/data-visualization) [A iniciar]<br/>
-Oferecido pela University Of California<br/>
->1. Fundamentals of Visualization with Tableau
->2. Essential Design Principles for Tableau
->3. Visual Analytics with Tableau
->4. Creating Dashboards and Storytelling with Tableau
->5. Data Visualization with Tableau Project
-
