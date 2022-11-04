@@ -39,6 +39,11 @@ Concluído em Julho de 2021 <br/>
 - [[Google Sheets/Excel] Planilha de controle de produtividade e avaliação](https://docs.google.com/spreadsheets/d/1pTI57uf-3B7NZXOGMPGX0PSXu563RBttbRP2J_EWpoY/edit?usp=sharing)
 > Planilha de controle de produtividade automatizada, utilizando formulário como entrada de dados e automatizando resultados e gráficos.
 
+- [[Google Data Studio] Dashboard sobre o segundo turno das eleições](https://datastudio.google.com/reporting/b196f896-79c1-41a0-a9a4-ec0d6a854de3
+)
+> Pequeno dashboard no Google Data Studio, onde foram criados gráficos de barras e gráficos de pizzas para visualizar os votos os dois candidatos filtrando por região.
+
+
 
 ## 3. Cursos realizados
 - <b>Certificado Profissional de Análista de Dados </b><br/>
