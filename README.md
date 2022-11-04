@@ -41,8 +41,10 @@ Concluído em Julho de 2021 <br/>
 
 - [[Google Data Studio] Dashboard sobre o segundo turno das eleições](https://datastudio.google.com/reporting/b196f896-79c1-41a0-a9a4-ec0d6a854de3
 )
-> Pequeno dashboard no Google Data Studio, onde foram criados gráficos de barras e gráficos de pizzas para visualizar dos votos os dois candidatos filtrando por região.
+> Dashboard no Google Data Studio, onde foram criados gráficos de barras e gráficos de pizzas para visualizar dos votos os dois candidatos filtrando por região.
 
+- [[Google Data Studio] Histórico de Pesquisas Datafolha - Eleições 2022](https://datastudio.google.com/reporting/ffa04c47-c401-4fef-a131-5b0ceb6ab570)
+> Dashboard criado no DataStudio com o histórico das pesquisas presidenciais do Datafolha nas Eleições 2022.
 
 
 ## 3. Cursos realizados
