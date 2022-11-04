@@ -41,7 +41,7 @@ Concluído em Julho de 2021 <br/>
 
 - [[Google Data Studio] Dashboard sobre o segundo turno das eleições](https://datastudio.google.com/reporting/b196f896-79c1-41a0-a9a4-ec0d6a854de3
 )
-> Pequeno dashboard no Google Data Studio, onde foram criados gráficos de barras e gráficos de pizzas para visualizar os votos os dois candidatos filtrando por região.
+> Pequeno dashboard no Google Data Studio, onde foram criados gráficos de barras e gráficos de pizzas para visualizar dos votos os dois candidatos filtrando por região.
 
 
 
