@@ -30,24 +30,28 @@ Concluído em Julho de 2021 <br/>
 
 ## 2. Pequenos projetos
 
-- [[Python] Análise sobre a eleição presidencial 2022](https://colab.research.google.com/drive/1Jhpl0LkZ6oykckZUcU9H2GmY791XQMCi?usp=sharing)
-> Notebook em Python com um mapeamento sobre a relação entre os votos de Lula e Bolsonaro e outros fatores como desemprego, taxa de escolarização, segurança alimentar, renda per capita, impacto da pandemia, etc.
+- [[Python] Análise sobre a eleição presidencial 2022](https://colab.research.google.com/drive/1Jhpl0LkZ6oykckZUcU9H2GmY791XQMCi?usp=sharing) <br/>
+Notebook em Python com um mapeamento sobre a relação entre os votos de Lula e Bolsonaro e outros fatores como desemprego, taxa de escolarização, segurança alimentar, renda per capita, impacto da pandemia, etc.
 
-- [[R] Criando Visualizações em R](https://drive.google.com/file/d/1m6oEDnmV22EkU0h-wpg12dFeHdVyKnge/view?usp=sharing)
-> Notebook em R criando diferentes tipos de visualizações, utilizando o dataframe penguins.
+- [[R] Criando Visualizações em R](https://drive.google.com/file/d/1m6oEDnmV22EkU0h-wpg12dFeHdVyKnge/view?usp=sharing) <br/>
+Notebook em R criando diferentes tipos de visualizações, utilizando o dataframe penguins.
 
 - [[Google Data Studio] Dashboard sobre o segundo turno das eleições](https://datastudio.google.com/reporting/b196f896-79c1-41a0-a9a4-ec0d6a854de3
-)
-> Dashboard no Google Data Studio, onde foram criados gráficos de barras e gráficos de pizzas para visualizar dos votos os dois candidatos filtrando por região.
+) <br/>
+Dashboard criado no DataStudio com gráficos de barras e gráficos de pizzas para visualizar dos votos os dois candidatos filtrando por região.
 
-- [[Google Data Studio] Histórico de Pesquisas Datafolha - Eleições 2022](https://datastudio.google.com/reporting/ffa04c47-c401-4fef-a131-5b0ceb6ab570)
-> Dashboard criado no DataStudio com o histórico das pesquisas presidenciais do Datafolha nas Eleições 2022.
+- [[Google Data Studio] Mapa entre votos dos candidatos e outros fatores](https://datastudio.google.com/reporting/2cab8948-a837-4190-9c3f-bf22069c770f) <br/>
+Dashboard criado no DataStudio com gráfico do mapa do Brasil e um mapa de calor com os votos dos candidados e alguns fatores como desemprego, segurança alimentar, taxa de escolarização, etc.
 
-- [[Google Data Studio] Correlação entre votos dos candidatos e outros fatores](https://datastudio.google.com/reporting/f6495050-608f-4a5c-818f-94415826bc2b)
-> Dashboard criado no DataStudio com gráficos de dispersão correlacionando os votos dos candidados com alguns fatores como desemprego, segurança alimentar, taxa de escolarização, etc.
+- [[Google Data Studio] Correlação entre votos dos candidatos e outros fatores](https://datastudio.google.com/reporting/f6495050-608f-4a5c-818f-94415826bc2b)  <br/>
+Dashboard criado no DataStudio com gráficos de dispersão correlacionando os votos dos candidados com alguns fatores como desemprego, segurança alimentar, taxa de escolarização, etc.
 
-- [[Google Sheets/Excel] Planilha de controle de produtividade e avaliação](https://docs.google.com/spreadsheets/d/1pTI57uf-3B7NZXOGMPGX0PSXu563RBttbRP2J_EWpoY/edit?usp=sharing)
-> Planilha de controle de produtividade automatizada, utilizando formulário como entrada de dados e automatizando resultados e gráficos.
+
+- [[Google Data Studio] Histórico de Pesquisas Datafolha - Eleições 2022](https://datastudio.google.com/reporting/ffa04c47-c401-4fef-a131-5b0ceb6ab570) <br/>
+Dashboard criado no DataStudio com o histórico das pesquisas presidenciais do Datafolha nas Eleições 2022.
+
+- [[Google Sheets/Excel] Planilha de controle de produtividade e avaliação](https://docs.google.com/spreadsheets/d/1pTI57uf-3B7NZXOGMPGX0PSXu563RBttbRP2J_EWpoY/edit?usp=sharing) <br/>
+Planilha de controle de produtividade automatizada, utilizando formulário como entrada de dados e automatizando resultados e gráficos.
 
 
 ## 3. Cursos realizados
