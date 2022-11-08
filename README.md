@@ -5,7 +5,7 @@
 <img src="https://neilpatel.com/wp-content/uploads/2017/12/portfolio.jpg"
 width="400"></center>  
 
-Sou o João Pedro, tenho 29 anos e estou em busca da primeira oportunidade como Analista de Dados Júnior. Sou uma pessoa bastante dedicada, com excelente perfil de trabalho em equipe, atitude positiva, comunicação assertiva e proatividade. A seguir apresento um pouco da minha formação, conteúdo técnico que desenvolvi para atuação na área e o que estou estudando atualmente.
+Sou o João Pedro, tenho 29 anos e estou em busca da primeira oportunidade como Analista de Dados Júnior. Sou uma pessoa bastante dedicada, com excelente perfil de trabalho em equipe, atitude positiva, comunicação assertiva e proatividade. Tenho habilidades para análise de dados em Python, SQL, Google Data Studio ou Looker Studio, R e a seguir apresento um pouco dessas habilidades, além da minha formação. Fique a vontade para ver cada um dos pontos e também entrar em contato em qualquer uma das formas que disponibilizei acima.
 
 ## Sumário
 
