@@ -30,30 +30,30 @@ Concluído em Julho de 2021 <br/>
 
 ## 2. Pequenos projetos
 
-- Python: [Análise sobre a eleição presidencial 2022](https://colab.research.google.com/drive/1Jhpl0LkZ6oykckZUcU9H2GmY791XQMCi?usp=sharing) <br/>
+- <b>Python</b>: [Análise sobre a eleição presidencial 2022](https://colab.research.google.com/drive/1Jhpl0LkZ6oykckZUcU9H2GmY791XQMCi?usp=sharing) <br/>
 Notebook em Python com um mapeamento sobre a relação entre os votos de Lula e Bolsonaro e outros fatores como desemprego, taxa de escolarização, segurança alimentar, renda per capita, impacto da pandemia, etc.
 
-- R: [Criando Visualizações em R](https://drive.google.com/file/d/1m6oEDnmV22EkU0h-wpg12dFeHdVyKnge/view?usp=sharing) <br/>
+- <b>R</b>: [Criando Visualizações em R](https://drive.google.com/file/d/1m6oEDnmV22EkU0h-wpg12dFeHdVyKnge/view?usp=sharing) <br/>
 Notebook em R criando diferentes tipos de visualizações, utilizando o dataframe penguins.
 
-- Looker Studio / Google Data Studio: [Dashboard sobre o segundo turno das eleições](https://datastudio.google.com/reporting/b196f896-79c1-41a0-a9a4-ec0d6a854de3
+- <b>Looker Studio / Google Data Studio</b>: [Dashboard sobre o segundo turno das eleições](https://datastudio.google.com/reporting/b196f896-79c1-41a0-a9a4-ec0d6a854de3
 ) <br/>
 Dashboard criado no DataStudio com gráficos de barras e gráficos de pizzas para visualizar dos votos os dois candidatos filtrando por região.
 
-- Looker Studio / Google Data Studio: [Mapa entre votos dos candidatos e outros fatores](https://datastudio.google.com/reporting/2cab8948-a837-4190-9c3f-bf22069c770f) <br/>
+- <b>Looker Studio / Google Data Studio</b>: [Mapa entre votos dos candidatos e outros fatores](https://datastudio.google.com/reporting/2cab8948-a837-4190-9c3f-bf22069c770f) <br/>
 Dashboard criado no DataStudio com gráfico do mapa do Brasil e um mapa de calor com os votos dos candidados e alguns fatores como desemprego, segurança alimentar, taxa de escolarização, etc.
 
-- Looker Studio / Google Data Studio: [Correlação entre votos dos candidatos e outros fatores](https://datastudio.google.com/reporting/f6495050-608f-4a5c-818f-94415826bc2b)  <br/>
+- <b>Looker Studio / Google Data Studio</b>: [Correlação entre votos dos candidatos e outros fatores](https://datastudio.google.com/reporting/f6495050-608f-4a5c-818f-94415826bc2b)  <br/>
 Dashboard criado no DataStudio com gráficos de dispersão correlacionando os votos dos candidados com alguns fatores como desemprego, segurança alimentar, taxa de escolarização, etc.
 
 
-- Looker Studio / Google Data Studio: [Histórico de Pesquisas Datafolha - Eleições 2022](https://datastudio.google.com/reporting/ffa04c47-c401-4fef-a131-5b0ceb6ab570) <br/>
+- <b>Looker Studio / Google Data Studio</b>: [Histórico de Pesquisas Datafolha - Eleições 2022](https://datastudio.google.com/reporting/ffa04c47-c401-4fef-a131-5b0ceb6ab570) <br/>
 Dashboard criado no DataStudio com o histórico das pesquisas presidenciais do Datafolha nas Eleições 2022.
 
-- Google Sheets: [Planilha de controle de produtividade e avaliação](https://docs.google.com/spreadsheets/d/1pTI57uf-3B7NZXOGMPGX0PSXu563RBttbRP2J_EWpoY/edit?usp=sharing) <br/>
+- <b>Google Sheets</b>: [Planilha de controle de produtividade e avaliação](https://docs.google.com/spreadsheets/d/1pTI57uf-3B7NZXOGMPGX0PSXu563RBttbRP2J_EWpoY/edit?usp=sharing) <br/>
 Planilha de controle de produtividade automatizada, utilizando formulário como entrada de dados e automatizando resultados e gráficos.
 
-- Excel: [Conjunto de funções de limpeza e tratamento de dados](https://1drv.ms/x/s!AsxkCZJUq1zyhpwHfc-OkvQqX_4Jpw?e=EH9HQl) <br/>
+- <b>Excel</b>: [Conjunto de funções de limpeza e tratamento de dados](https://1drv.ms/x/s!AsxkCZJUq1zyhpwHfc-OkvQqX_4Jpw?e=EH9HQl) <br/>
 Um conjunto de funções para tratamento, limpeza e análise de dados, montados por mim durante o curso Excel Fundamentals for Data Analysis
 
 
