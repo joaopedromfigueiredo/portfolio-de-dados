@@ -41,7 +41,7 @@ Notebook em R criando diferentes tipos de visualizações, utilizando o datafram
 Dashboard criado no DataStudio com gráficos de barras e gráficos de pizzas para visualizar dos votos os dois candidatos filtrando por região.
 
 - <b>Looker Studio / Google Data Studio</b>: [Mapa entre votos dos candidatos e outros fatores](https://datastudio.google.com/reporting/2cab8948-a837-4190-9c3f-bf22069c770f) <br/>
-Dashboard criado no DataStudio com gráfico do mapa do Brasil e um mapa de calor com os votos dos candidados e alguns fatores como desemprego, segurança alimentar, taxa de escolarização, etc.
+Dashboard criado no DataStudio com gráfico de mapa do Brasil com os votos dos candidados e alguns fatores como desemprego, segurança alimentar, taxa de escolarização, etc.
 
 - <b>Looker Studio / Google Data Studio</b>: [Correlação entre votos dos candidatos e outros fatores](https://datastudio.google.com/reporting/f6495050-608f-4a5c-818f-94415826bc2b)  <br/>
 Dashboard criado no DataStudio com gráficos de dispersão correlacionando os votos dos candidados com alguns fatores como desemprego, segurança alimentar, taxa de escolarização, etc.
@@ -59,7 +59,7 @@ Um conjunto de funções para tratamento, limpeza e análise de dados, montados 
 
 
 ## 3. Cursos realizados
-- <b>Certificado Profissional de Análista de Dados </b><br/>
+- <b>Certificado Profissional de Analista de Dados </b><br/>
 Oferecido pela Google <br/>
 [Certificado](https://coursera.org/share/99289956109d8cb0c8b42a17665cc85f) | [Selo](https://www.credly.com/badges/eddabad7-711a-4f54-80a8-9faa640edbb2)<br/>
 >Certificado profissional onde foi adquirido experiência em coletar, transformar e organizar dados para análises que ajudam nas tomadas de decisões. Foi desenvolvido excelente compreensão e proficiência de plataformas para análises de dados eficazes: SQL, Google Sheets/Excel, Tableau e R. Também foi trabalhado fortes habilidades de comunicação, organização e análise. Um programa rigoroso e prático que abrange todo o escopo do processo de análise de dados. Certificados individuais dos cursos:
