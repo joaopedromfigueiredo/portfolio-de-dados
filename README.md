@@ -1,18 +1,21 @@
 ### Analista de Dados / Analista de BI | Nível Júnior | [Certificado Profissionalmente pelo Google](https://www.credly.com/badges/eddabad7-711a-4f54-80a8-9faa640edbb2)
 
-> Looker Studio | Power BI | Python (Pandas, Bibliotecas de Visualização, Jupyter/Google Colab) | Consultas SQL | Excel e Planilhas Google Avançado
+##### Looker Studio | Power BI | Python (Pandas, Bibliotecas de Visualização, Jupyter/Google Colab) | Consultas SQL | Excel e Planilhas Google Avançado
 <br/>
-<br/>
+
+ ## Sobre
 Olá, me chamo João Pedro, atualmente tenho 29 anos e estou em busca da primeira oportunidade como analista de BI ou analista de dados. Possuo duas graduações: uma em "Computação e Informática" e outra em "Matemática". Também possuo uma pós graduação concluída em "Ensino de Matemática para o Ensino Médio" e atualmente estou cursando outra pós graduação em "Business Intelligence, Big Data e Inteligência Artifical".
 
-<br/>
 <br/>
 
 Abaixo apresento um pouco das minhas capacidades por meio de pequenos projetos, fique a vontade para entrar em contato pelos meios oferecidos.
 
+ ## Contatos
 [LinkedIn](https://www.linkedin.com/in/joaopedromfigueiredo) | [Whatsapp](https://web.whatsapp.com/send?phone=558494650884) | [Currículo](https://docs.google.com/document/d/1nk8D7D00blp3kZpfyhevfVkfmIXc3wm-3Iekw7xdqDQ/edit?usp=sharing) | [Selos Credly](https://www.credly.com/users/joao-pedro-de-morais-figueiredo/badges) | joaopedro_@outlook.com <br/>
  <br/>
- <br/>
+
+ 
+ ## Projetos
 
 - Análise da Eleição 2022 em Python usando a biblioteca pandas e algumas bibliotecas de análise e visualização <br/>
 [Clique aqui](https://colab.research.google.com/drive/1Jhpl0LkZ6oykckZUcU9H2GmY791XQMCi?usp=sharing)
