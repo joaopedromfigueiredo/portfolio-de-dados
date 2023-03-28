@@ -17,14 +17,16 @@ Abaixo apresento um pouco das minhas capacidades por meio de pequenos projetos, 
  
  ## Projetos
 
-- Análise da Eleição 2022 em Python usando a biblioteca pandas e algumas bibliotecas de análise e visualização <br/>
-[Clique aqui](https://colab.research.google.com/drive/1Jhpl0LkZ6oykckZUcU9H2GmY791XQMCi?usp=sharing)
 
-- Dashboard criado usando a ferramenta de BI Looker Studio sobre as eleições de 2022 <br/>
-[Clique aqui](https://lookerstudio.google.com/reporting/ffa04c47-c401-4fef-a131-5b0ceb6ab570/page/Yuw6C)
+
+- Dashboard criado usando a ferramenta de BI Looker Studio para monitoramento em um ambiente de callcenter <br/>
+[Clique aqui](https://lookerstudio.google.com/reporting/a47da139-96d8-4b10-ab97-0c668b99adb0/page/lgXKD)
 
 - Outro dashboard, também usando a ferramente de BI Looker Studio, mapeando o número de casos e óbitos da pandemia de Covid 19 no Brasil <br/>
 [Clique aqui](https://datastudio.google.com/reporting/f754bf76-2395-40be-b51a-f0a6e3f4bcc0/page/CFnCD)
+
+- Análise da Eleição 2022 em Python usando a biblioteca pandas e algumas bibliotecas de análise e visualização <br/>
+[Clique aqui](https://colab.research.google.com/drive/1Jhpl0LkZ6oykckZUcU9H2GmY791XQMCi?usp=sharing)
 
 - Planilha de controle de produtividade no Planilhas Google, utilizada em ambiente de Callcenter <br/>
 [Clique Aqui](https://docs.google.com/spreadsheets/d/1pTI57uf-3B7NZXOGMPGX0PSXu563RBttbRP2J_EWpoY/edit?authuser=0#gid=2033897854)
